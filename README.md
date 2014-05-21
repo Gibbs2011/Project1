@@ -1,0 +1,4 @@
+Project1
+========
+
+Problem Statement  Using the web sites of various computer vendors of your choice, pick a computer that would satisfy the needs of an average college student, and collect all characteristics of the computer that you consider interesting, including the price. Write a program that displays the defining characteristics of the computer in a format that would attract potential users.   Continue your exercise by simulating an upgrade for the computer chosen earlier. Choose a better processor, more RAM, a different hard disk drive, an audio card, a video card, and speakers. Find prices for all the components mentioned above. Continue your program, defining appropriate variables for the new components, and the price of the new, upgraded computer. Read all prices from the user, and calculate the price of the new computer. Display the new configuration, with all the characteristics defined earlier, as well as the price.
